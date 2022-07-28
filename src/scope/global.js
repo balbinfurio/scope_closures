@@ -18,7 +18,7 @@ bestFruit();
 
 function countries()
 {
-    var country = 'Colombia'; // Así se declara GLOBAL scope
+    var country = 'Colombia'; // Así se declara de forma GLOBAL scope
     console.log(country);
 }
 
