@@ -5,7 +5,7 @@ function myFunction()
     const myNumber = 1;
     console.log(myGlobal);
 
-    function parent() // funcion interna
+    function parent() // funcion interna/anidada
     {
         const inner = 2;
         console.log(myNumber, myGlobal);
